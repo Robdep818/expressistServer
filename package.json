@@ -1,0 +1,19 @@
+{
+  "name": "expressistserver",
+  "version": "1.0.0",
+  "description": "\"myfirstExpressServer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robdep818/expressistServer.git"
+  },
+  "author": "Rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robdep818/expressistServer/issues"
+  },
+  "homepage": "https://github.com/Robdep818/expressistServer#readme"
+}
